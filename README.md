@@ -1,2 +1,2 @@
 # csv_files
-To add all 5he .CSV files to this repository 
+To add all the .csv files to this repository 
